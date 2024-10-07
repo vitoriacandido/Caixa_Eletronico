@@ -1,0 +1,15 @@
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\bin\Debug\net8.0\Caixa_Eletronico.exe
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\bin\Debug\net8.0\Caixa_Eletronico.deps.json
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\bin\Debug\net8.0\Caixa_Eletronico.runtimeconfig.json
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\bin\Debug\net8.0\Caixa_Eletronico.dll
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\bin\Debug\net8.0\Caixa_Eletronico.pdb
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.AssemblyInfoInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.AssemblyInfo.cs
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.sourcelink.json
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.dll
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\refint\Caixa_Eletronico.dll
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.pdb
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\Caixa_Eletronico.genruntimeconfig.cache
+C:\Users\Alunos\OneDrive\Documentos\Vitoria.README\Caixa_Eletronico\obj\Debug\net8.0\ref\Caixa_Eletronico.dll
