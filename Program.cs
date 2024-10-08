@@ -5,10 +5,24 @@ class Program
     static void Main(string[] args)
     {
         // Definição de variáveis
+        string banco = "Banco Exemplo";
+        string senhaCorreta = "1234"; // Senha para autenticação
         int contaNumero = 123456;
         double saldo = 0;
         int opcao;
         double valor;
+
+        // Autenticação do usuário
+        Console.WriteLine("--- Bem-vindo ao " + banco + " ---");
+        Console.Write("Digite sua senha: ");
+        string senha = Console.ReadLine();
+
+        // Verifica se a senha está correta
+        if (senha != senhaCorreta)
+        {
+            Console.WriteLine("Senha incorreta! Acesso negado.");
+            return; // Sai do programa
+        }
 
         while (true)
         {
